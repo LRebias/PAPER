@@ -17,24 +17,24 @@ python data/data_process/new_data.py
 
 ## Training
 ### Persona understanding stage
-```
+```python
 bash flow/sfts1.sh
 ```
 ### Persona perception stage
-```
+```python
 python src/persona_extraction.py
 bash flow/predict.sh
 ```
 ### Response generation stage
-```
+```python
 bash flow/sfts2.sh
 ```
 ## Inference
-```
+```python
 bash flow/predict.sh
 ```
 ### LLM-based Evaluation
-```
+```python
 python evaluation/gpt_evaluation/compute_scores.py
 ```
 
