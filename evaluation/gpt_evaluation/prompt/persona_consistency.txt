@@ -1,0 +1,33 @@
+You will be provided with the dialog history and the personality of the speaker in the dialogue, as well as a response.
+
+Your task is to rate the response on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+
+Evaluation Criteria:
+
+Persona_Consistency (1-5) - The extent to which the response is consistent with the speaker's personality information and the evaluation of the response's ability to display understanding with the personality and personas expressed in the conversation history.The response should be consistent with the speaker's personality.
+
+Evaluation Steps:
+
+1. Read the dialog history and the personality carefully and identify the persona of the speaker.
+2. Read the response and analyze if it shows understanding towards the speaker's personality.
+3. Read the response and compare it to the personality. Check if the response is consistent with the information and context provided in the personality.
+4. Assign a score for consistency on a scale of 1 to 5, where a score of 5 represents a response that deeply consistent with personality of the speaker, while a score of 1 indicates the response conflicts with the speaker's personality.
+
+
+Example:
+
+
+
+{{conversation history}}
+
+Response:
+
+{{response}}
+
+
+Evaluation Form (scores ONLY):
+
+- Consistency (1-5):

@@ -1,0 +1,1442 @@
+[
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: DishingOutDirt ",
+        "output": " DishingOutDirt: Elemental Powers over earth/stone."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: RuleOfPerception ",
+        "output": " RuleOfPerception: As far as the audience is concerned, if you can't perceive it, it doesn't exist."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: ImAHumanitarian ",
+        "output": " ImAHumanitarian: Humans eating humans."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: ObjectShows ",
+        "output": " ObjectShows: Web animations focusing on animated inanimate objects, usually competing in a contest for a grand prize."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: Sadist ",
+        "output": " Sadist: Someone who enjoys the suffering of others."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: Metaphorgotten ",
+        "output": " Metaphorgotten: The analogy breaks down and stops making sense."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: OldMaid ",
+        "output": " OldMaid: An 'older' woman who has never married/been in a real relationship."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: HumanAliens ",
+        "output": " HumanAliens: An alien or species whose appearance is completely indistinguishable from humans."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: GodzillaThreshold ",
+        "output": " GodzillaThreshold: The point at which anything and everything becomes a valid option."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: UnexpectedCharacter ",
+        "output": " UnexpectedCharacter: The audience knows this character, but they didn't expect them appear in an adaptation/sequel."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: OtherSites ",
+        "output": " OtherSites: Some non-TV Tropes sites."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: DueToTheDead ",
+        "output": " DueToTheDead: Giving the dead proper funerary rites is virtuous, while the opposite&mdash;desecrating their remains&mdash;is disgraceful."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: EvilIsNotAToy ",
+        "output": " EvilIsNotAToy: A character trying to use greater evil forces for their own ends has it backfire horribly on them."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: StockShonenRival ",
+        "output": " StockShonenRival: Archetypal take on The Rival: an aloof jerkass who acts as the Stock Sh&#333;nen Hero's equal and opposite."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: VisualNovel ",
+        "output": " VisualNovel: Japanese-style Interactive Fiction, usually Moe-ified and filled with a detailed background."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: OneTrueThreesome ",
+        "output": " OneTrueThreesome: Fans shipping 3 characters together in a triadic couple."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: BewareTheSuperman ",
+        "output": " BewareTheSuperman: The existence of superpowers has an almost, if not entirely, negative effect on the world."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: GreyAndGrayMorality ",
+        "output": " GreyAndGrayMorality: Opposing sides are neither completely \"good\" nor completely \"evil\"."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: GainaxEnding ",
+        "output": " GainaxEnding: Intentionally confusing ending."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: ReallyGetsAround ",
+        "output": " ReallyGetsAround: A character who has a disproportionate number of sexual partners compared to everyone else."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: NuMetal ",
+        "output": " NuMetal: A very controversial genre of music that's rooted in Grunge, Hip-Hop, Alternative Metal, Rap Rock and Groove Metal."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: FirstNameBasis ",
+        "output": " FirstNameBasis: Addressing others by just their first name."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: OfficialCouple ",
+        "output": " OfficialCouple: Characters who get together in Canon."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: TomatoSurprise ",
+        "output": " TomatoSurprise: A fundamental fact about the setting or characters is known to the characters, but withheld from the audience till the last minute."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: TheNthDoctor ",
+        "output": " TheNthDoctor: New actor playing the same character is explained in-universe."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: BossBattle ",
+        "output": " BossBattle: A fight with a stronger-than-usual enemy in a Video Game."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: BullyingADragon ",
+        "output": " BullyingADragon: Hey, let's go mess with the guy who can easily kill us all!"
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: CompleteMonster ",
+        "output": " CompleteMonster: The most heinous characters, played seriously with no redeeming or altruistic qualities, with crimes that set them apart from standard villains of the setting."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: MisaimedMarketing ",
+        "output": " MisaimedMarketing: Merchandise aimed at a different demographic than what its source material intended."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: FantasticRacism ",
+        "output": " FantasticRacism: Discrimination and/or prejudice involving fictional races or non-human species."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: MemeticMutation ",
+        "output": " MemeticMutation: Fandom memes that expand beyond their original meaning, becoming part of the broader culture."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: ARareSentence ",
+        "output": " ARareSentence: A speaker remarks on the oddity of what they (or someone else) just said."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: SpecialEffectFailure ",
+        "output": " SpecialEffectFailure: Obviously fake effects."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: Gamebooks ",
+        "output": " Gamebooks: Turn to page 203 for book-form interactive fiction."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: UnfortunateNames ",
+        "output": " UnfortunateNames: If a person has these, they will be ridiculed or hated."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: MindScrew ",
+        "output": " MindScrew: Weirdness driven by symbolism, surrealism or absurdism, often lacking a clear explanation."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: FelonyMisdemeanor ",
+        "output": " FelonyMisdemeanor: An exaggerated response to a minor crime."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: ArtisticLicensePaleontology ",
+        "output": " ArtisticLicensePaleontology: Portrayal of dinosaurs or other prehistoric animals which is not focused on accuracy."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: Overcrank ",
+        "output": " Overcrank: Filming at a faster rate so the playback is slowed down."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: SubvertedKidsShow ",
+        "output": " SubvertedKidsShow: A supposed \"kids' show\" that eventually reveals its true colors."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: WeaselWords ",
+        "output": " WeaselWords: Ambiguous language that only sounds legit."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: GodNeverSaidThat ",
+        "output": " GodNeverSaidThat: A statement about a work is attributed to its creator, even though the creator never said anything of the kind."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: SuperStrength ",
+        "output": " SuperStrength: Unambiguously superhuman physical strength."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: MotiveDecay ",
+        "output": " MotiveDecay: Y'know, they used to have a reason for doing evil things."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: StupidEvil ",
+        "output": " StupidEvil: Pointless, useless, meaningless and counter-productive evil acts."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: RoyalBrat ",
+        "output": " RoyalBrat: A Spoiled Brat of royalty."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: HomoeroticSubtext ",
+        "output": " HomoeroticSubtext: Two characters of the same gender depicted in a similar way to romantic relationships."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: BigLittleBrother ",
+        "output": " BigLittleBrother: Bigger doesn't always mean older among siblings."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: TheCameo ",
+        "output": " TheCameo: Someone famous makes a brief, plot-irrelevant appearance in another unrelated work."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: FriendToAllChildren ",
+        "output": " FriendToAllChildren: Anyone who's good with kids can't be all that bad."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: FantasticSapientSpeciesTropes ",
+        "output": " FantasticSapientSpeciesTropes: Tropes about people who aren't Homo sapiens."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: IronWoobie ",
+        "output": " IronWoobie: A Woobie that takes the Trauma Conga Line in stride."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: WouldHurtAChild ",
+        "output": " WouldHurtAChild: A teenager/adult has no qualms physically harming children/younger teenagers."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: SatanicArchetype ",
+        "output": " SatanicArchetype: An evil-doer modelled after Satan."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: BillingDisplacement ",
+        "output": " BillingDisplacement: The billing placement of the actors in marketing do not match the prominence of their characters' roles in the work."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: LargeHam ",
+        "output": " LargeHam: Highly dramatic, pretentious, and over-the-top acting."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: GambitRoulette ",
+        "output": " GambitRoulette: Plan that hinges on unpredictable factors succeeds."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: UnbuiltTrope ",
+        "output": " UnbuiltTrope: The Trope Maker differs so much from how it's now commonly used that it seems like it's Playing with a Trope in retrospect."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: CerebusRetcon ",
+        "output": " CerebusRetcon: Something that was Played for Laughs is retconned as Played for Drama."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: ButtMonkey ",
+        "output": " ButtMonkey: Things very rarely go right for this character."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: AnotherDimension ",
+        "output": " AnotherDimension: Another world outside our own plane of existence."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: TooAwesomeToUse ",
+        "output": " TooAwesomeToUse: An extremely powerful weapon or item whose usefulness is held back by having limited uses and/or quantity."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: Subtext ",
+        "output": " Subtext: Underlying messages left unsaid."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: YoungAdultLiterature ",
+        "output": " YoungAdultLiterature: Books aimed at 15 to 21 year olds."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: ImpaledWithExtremePrejudice ",
+        "output": " ImpaledWithExtremePrejudice: Supersized stabbing, often all-the-way-through."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: GangsterFiction ",
+        "output": " GangsterFiction: An index of fictional works that focus on gangsters."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: NobleDemon ",
+        "output": " NobleDemon: A self-serving villain with a Code of Honour."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: RedOniBlueOni ",
+        "output": " RedOniBlueOni: Two characters, one passionate, headstrong and wild (red), and the other level-headed, collected and rational (blue), are associated with each other for contrast."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: TrappedInAnotherWorld ",
+        "output": " TrappedInAnotherWorld: Character gets thrust into a new world."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: ImpededCommunication ",
+        "output": " ImpededCommunication: Communication is harmed by an outside force."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: SlapSlapKiss ",
+        "output": " SlapSlapKiss: Two characters in love with each other get in a heated argument that ends with them kissing."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: PerpSweating ",
+        "output": " PerpSweating: Techniques used to get the suspect to talk."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: LastWords ",
+        "output": " LastWords: Someone's final words before they die."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: EvenEvilHasStandards ",
+        "output": " EvenEvilHasStandards: Some things are too vile even for a villain to do."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: EveryoneCallsHimBarkeep ",
+        "output": " EveryoneCallsHimBarkeep: Only known by their profession/some other description."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: MeaningfulEcho ",
+        "output": " MeaningfulEcho: A line of dialogue repeated later with enhanced meaning."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: PrettyInMink ",
+        "output": " PrettyInMink: Furs are glamorous, show wealth, and help pretty up a scene."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: NervousTics ",
+        "output": " NervousTics: A habit that comes out whenever someone is anxious or uncomfortable."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: TurnBasedStrategy ",
+        "output": " TurnBasedStrategy: Games involving taking turns controlling units/pieces over an area."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: ShellTropes ",
+        "output": " ShellTropes: A trope index about shells and shelled creatures."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: VideoGameCrueltyPotential ",
+        "output": " VideoGameCrueltyPotential: The mechanics of the game allow the player to do potentially horrible things."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: FolkMetal ",
+        "output": " FolkMetal: A musical genre that is influenced by pre-Christian European paganism and traditions."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: CrouchingMoronHiddenBadass ",
+        "output": " CrouchingMoronHiddenBadass: An idiot, total incompetent, or lamewad who can become awesome in situations."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: DolledUpInstallment ",
+        "output": " DolledUpInstallment: Slapping a franchise on an initially unrelated production."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: CloningBlues ",
+        "output": " CloningBlues: Being a clone leads to character angst."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: DentedIron ",
+        "output": " DentedIron: A tough character's exploits lead to them receiving many injuries over the course of their adventures."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: MagnificentBastard ",
+        "output": " MagnificentBastard: Villains (or morally gray characters at best) portrayed as confident, charming schemers who think on their feet, outsmart their competitors with style and grace, and remain graceful even in the event of defeat."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: TooDumbToLive ",
+        "output": " TooDumbToLive: Someone's stupidity causing their own death."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: InkSuitActor ",
+        "output": " InkSuitActor: Animated character looks like their real-life actor."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: TheFool ",
+        "output": " TheFool: An irritatingly lucky and fundamentally kind-hearted Ditz."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: Grindcore ",
+        "output": " Grindcore: A hybrid of Hardcore Punk and extreme metal composing of both genres' extremities and a knack for short song lengths."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: HeroicSacrifice ",
+        "output": " HeroicSacrifice: Character sacrifices him/herself to save others."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: MadeOfIron ",
+        "output": " MadeOfIron: A character who can take an absurd amount of punishment with little consequence."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: SelfMadeOrphan ",
+        "output": " SelfMadeOrphan: Someone killed their own parents."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: TheUnfettered ",
+        "output": " TheUnfettered: Somebody who will do anything to get what they want."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: SelfHarm ",
+        "output": " SelfHarm: Intentionally harming yourself (without suicidal intent)."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: AmbiguityIndex ",
+        "output": " AmbiguityIndex: Our index for pages made to resolve ambiguity."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: StrictlyFormula ",
+        "output": " StrictlyFormula: Main plotline of every episode is basically the same."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: AdaptationalHeroism ",
+        "output": " AdaptationalHeroism: A character is more of a hero in an adaptation than they were in the original material."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: MissingEpisode ",
+        "output": " MissingEpisode: An episode of a series that is not shown in syndication, and is not rerun."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: AFatherToHisMen ",
+        "output": " AFatherToHisMen: The leader really cares about their followers."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: TheLoad ",
+        "output": " TheLoad: A useless character who does nothing but weigh down the group."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: TrademarkFavoriteFood ",
+        "output": " TrademarkFavoriteFood: A certain type of food that a character LOVES."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: StockParodyJokes ",
+        "output": " StockParodyJokes: Commonplace, routinely reused jokes."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: StockFootageFailure ",
+        "output": " StockFootageFailure: When using Stock Footage (to save time and money) results in continuity errors."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: TragicKeepsake ",
+        "output": " TragicKeepsake: A memento from a great tragedy."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: LockedOutOfTheLoop ",
+        "output": " LockedOutOfTheLoop: This character isn't allowed to know what's going on."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: SpiritualAntithesis ",
+        "output": " SpiritualAntithesis: A work with a comparable setup to a past/contemporary work, but a distinctly different execution."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: DracoInLeatherPants ",
+        "output": " DracoInLeatherPants: A controversial or evil character gets their unpleasant qualities downplayed or removed by the work's fans. It's often due to their looks."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: Wedgie ",
+        "output": " Wedgie: A character, usually portrayed as the bully, grabs the waistband of a victim&#146;s underwear and yanks upward."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: GoldenAge ",
+        "output": " GoldenAge: The period of time following a mediums creation where it evolves from a novelty to a genre."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: FourthWallObserver ",
+        "output": " FourthWallObserver: A specific character is aware of the fourth wall when others are not."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: WereStillRelevantDammit ",
+        "output": " WereStillRelevantDammit: Obvious, desperate, and frequently misguided attempts at keeping trendy, hip and young using Long Running media, especially if it's outdated."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: AncientRome ",
+        "output": " AncientRome: The common depictions of Ancient Rome in fiction."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: BigBrotherInstinct ",
+        "output": " BigBrotherInstinct: Never fear! Big Bro/Sis/Sib (biological or figurative) is here to protect you!"
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: TraditionalHeavyMetal ",
+        "output": " TraditionalHeavyMetal: Often blues-influenced Heavy Metal in the style of artists like Black Sabbath or Judas Priest."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: LifeImitatesArt ",
+        "output": " LifeImitatesArt: Something that happened in fiction eventually occurs in Real Life."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: BrownNote ",
+        "output": " BrownNote: Some sort of sensory input (such as a sound or image) that has a physical or psychological effect on anyone who sees or hears it."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: ChronicBackstabbingDisorder ",
+        "output": " ChronicBackstabbingDisorder: Someone who successfully and repeatedly betrays people."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: DownloadableContent ",
+        "output": " DownloadableContent: Extra video game content available for download that wasn't originally there. Usually has a price, but cases of free content also exist."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: BewareTheNiceOnes ",
+        "output": " BewareTheNiceOnes: Make this Nice Guy angry and they'll retaliate. HARD."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: OurDragonsAreDifferent ",
+        "output": " OurDragonsAreDifferent: You can call it whatever you want, it's still a dragon."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: UnintentionallyUnwinnable ",
+        "output": " UnintentionallyUnwinnable: Game has a design flaw that prevents it from being won."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: CanonWelding ",
+        "output": " CanonWelding: The creator combines their previous works into one series."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: TookALevelInBadass ",
+        "output": " TookALevelInBadass: A previously non-threatening character grows over time into a capable combatant."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: OneSceneWonder ",
+        "output": " OneSceneWonder: A minor character's sole scene is also one of the most memorable."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: TheAllegedCar ",
+        "output": " TheAllegedCar: Less-than-road-worthy vehicle. Don't try driving it."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: LandslideElection ",
+        "output": " LandslideElection: A Curbstomp Battle, with ballots!"
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: PopCultureIsolation ",
+        "output": " PopCultureIsolation: Significant within one group, but not anyone else."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: Youkai ",
+        "output": " Youkai: Various supernatural creatures from Japanese Mythology."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: GoodIsDumb ",
+        "output": " GoodIsDumb: When being a hero means doing unintelligent things."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: MemeticLoser ",
+        "output": " MemeticLoser: A normally competent character's weaknesses are exaggerated in fanon, to the point where they become a walking punchline for laughs."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: AdaptationalBadass ",
+        "output": " AdaptationalBadass: The newer incarnation is much more of an action guy."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: GermanMedia ",
+        "output": " GermanMedia: Media from Germany."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: MetalSlime ",
+        "output": " MetalSlime: A rare, powerful, and elusive Mook, likely to drop some useful item if you manage to defeat it."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: VillainousCrush ",
+        "output": " VillainousCrush: A villain is romantically/sexually attracted to one of the heroes."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: RedIsHeroic ",
+        "output": " RedIsHeroic: Red is the color of heroes."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: BigWordShout ",
+        "output": " BigWordShout: I don't need to yell this one word, but I WIIIIIIIIIIIIIIIIIIIIIIIIIIIIILLLLLLLL!!!!!!!!!"
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: NighInvulnerability ",
+        "output": " NighInvulnerability: Near-impossible to hurt."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: EdutainmentShow ",
+        "output": " EdutainmentShow: A work that both entertains and educates."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: Tagline ",
+        "output": " Tagline: The main phrase used in promotion for a work."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: ContinuityCavalcade ",
+        "output": " ContinuityCavalcade: A large list of previous events are all referenced at once."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: CowardlyLion ",
+        "output": " CowardlyLion: Characters that manage to accomplish daunting tasks despite their own fears and doubts."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: MagicAndPowers ",
+        "output": " MagicAndPowers: An index of tropes about predominantly mystical abilities and powers."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: GunsAndGunplayTropes ",
+        "output": " GunsAndGunplayTropes: An index of tropes about guns."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: FishOutOfTemporalWater ",
+        "output": " FishOutOfTemporalWater: Somebody finds themselves out of their time period."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: CanonicalListOfSubtleTropeDistinctions ",
+        "output": " CanonicalListOfSubtleTropeDistinctions: Overlapping tropes detailed in minutiae."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: ParentalBonus ",
+        "output": " ParentalBonus: A joke/reference in a kids' show that only adults will catch."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: RailShooter ",
+        "output": " RailShooter: Shooting game + Autoscroll"
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: AfterActionReport ",
+        "output": " AfterActionReport: Fan Fic retelling the author's experience playing a (strategy) game as a coherent narrative."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: LateToTheTragedy ",
+        "output": " LateToTheTragedy: Something bad has happened in the location, and the character arrives too late."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: LimitedAnimation ",
+        "output": " LimitedAnimation: Reusing the same animation frames for certain sequences (such as a walk cycle) as opposed to redrawing new ones for each frame to save on time and/or cash."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: AdverblyAdjectiveNoun ",
+        "output": " AdverblyAdjectiveNoun: Variably descriptive title."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: GiantSpider ",
+        "output": " GiantSpider: A big spider."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: HorrorTropes ",
+        "output": " HorrorTropes: An index of tropes commonly found in horror stories."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: ExpandedUniverse ",
+        "output": " ExpandedUniverse: All the details of a fiction world that do not affect the main storyline."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: AdaptationExplanationExtrication ",
+        "output": " AdaptationExplanationExtrication: An adaptation keeps a plot point, but not the explanation for it."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: OneBookAuthor ",
+        "output": " OneBookAuthor: A creator who has released one work, and almost nothing else."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: OlderThanFeudalism ",
+        "output": " OlderThanFeudalism: Tropes from before the fall of the Western Roman Empire."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: EventTitle ",
+        "output": " EventTitle: This work is titled after an event (or series thereof) that took place, is taking place, or is about to take place in the story."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: EstablishingCharacterMoment ",
+        "output": " EstablishingCharacterMoment: Someone's introductory moment that illustrates their abilities/personality/motives."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: AgonyOfTheFeet ",
+        "output": " AgonyOfTheFeet: There's no thrill of victory when you hurt your foot."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: MistreatmentInducedBetrayal ",
+        "output": " MistreatmentInducedBetrayal: Someone betrays somebody else because they mistreated them."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: ArtilleryGame ",
+        "output": " ArtilleryGame: Game genre consisting of launching ballistic projectiles at targets, usually from artillery."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: TheUnReveal ",
+        "output": " TheUnReveal: All is set up for The Reveal &mdash; and it never happens."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: WhoMurderedTheAsshole ",
+        "output": " WhoMurderedTheAsshole: An investigation to a murder is stymied by there being no lack of people who hated the victim and wanted them dead."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: Sequelitis ",
+        "output": " Sequelitis: Main trope: A franchise or series gets worse with each installment.Web Video: Egoraptor takes a look at the evolution of video game mechanics through their sequels while swearing like a sailor."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: RhetoricalQuestionBlunder ",
+        "output": " RhetoricalQuestionBlunder: A question that didn't need an answer gets one anyway."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: BigScrewedUpFamily ",
+        "output": " BigScrewedUpFamily: A messed up family."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: VerbalTic ",
+        "output": " VerbalTic: A Catchphrase used purely out of habit."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: ObviouslyEvil ",
+        "output": " ObviouslyEvil: A character is blatantly evil in appearance."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: CrapsaccharineWorld ",
+        "output": " CrapsaccharineWorld: A Crapsack World disguised as a Sugar Bowl."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: RageBreakingPoint ",
+        "output": " RageBreakingPoint: A character who has been repressing their anger finally lets it out."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: Plots ",
+        "output": " Plots: Organize a whole script's action."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: TimeTravel ",
+        "output": " TimeTravel: Traveling through time."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: FirstLawOfMetafictionalThermodynamics ",
+        "output": " FirstLawOfMetafictionalThermodynamics: The more stuff is happening, the slower everything happens."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: EvilIsBigger ",
+        "output": " EvilIsBigger: Evil characters tend to be larger in size than good characters."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: GenderAndSexualityTropes ",
+        "output": " GenderAndSexualityTropes: Tropes on orientation and sex."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: StorytimeAnimators ",
+        "output": " StorytimeAnimators: YouTubers that mainly create animatics/animations on real stories."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: SoldierVsWarrior ",
+        "output": " SoldierVsWarrior: Organized troopers vs brutal militants."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: EvenEvilHasLovedOnes ",
+        "output": " EvenEvilHasLovedOnes: Villains love their family and friends like anyone else."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: BuryYourGays ",
+        "output": " BuryYourGays: Gay characters are killed off disproportionately often."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: HeroicBloodshed ",
+        "output": " HeroicBloodshed: Gangster-themed Blood Opera films inspired by classic Hong Kong Cinema."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: MST ",
+        "output": " MST: Critical commentary (usually of a terrible work) as the story progresses."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: LightningBruiser ",
+        "output": " LightningBruiser: Strong, quick, AND tough."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: AdaptationExpansion ",
+        "output": " AdaptationExpansion: Adding stuff to the adaptation to take up more time or otherwise complexify."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: OverdosedTropes ",
+        "output": " OverdosedTropes: Media will be useless without some of these tropes."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: EvilLaugh ",
+        "output": " EvilLaugh: Trope: A villain laughs due to evil-derived satisfaction. Or an Anti-/Guile Hero(ine) laughs upon Out-Gambitting an evil-doer."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: LoveRedeems ",
+        "output": " LoveRedeems: A Heel&#150;Face Turn from The Dark Side via The Power of Love."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: ArtificialLimbs ",
+        "output": " ArtificialLimbs: An artificial limb, which is usually just as good as a real one."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: StraightMan ",
+        "output": " StraightMan: The guy who sets up the punchline for the Plucky Comic Relief."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: ShootTheDog ",
+        "output": " ShootTheDog: A good guy does something morally gray or even reprehensible for the greater good."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: DomesticAbuse ",
+        "output": " DomesticAbuse: Forcefully controlling the significant other in a relationship, often by means of physical and/or verbal harm."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: ClosetGay ",
+        "output": " ClosetGay: A character who's LGBTQIA and does their best to try and hide it."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: CurseCutShort ",
+        "output": " CurseCutShort: Character is interrupted mid-swear."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: WhereTheHellIsSpringfield ",
+        "output": " WhereTheHellIsSpringfield: A show's setting is never pinned down, and may change as the plot sees fit."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: AllegoricalCharacter ",
+        "output": " AllegoricalCharacter: A character who represents a group or idea."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: NotQuiteDead ",
+        "output": " NotQuiteDead: You thought the villain was dying/dead. Not so."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: AppliedPhlebotinum ",
+        "output": " AppliedPhlebotinum: Soft science material fuel."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: MilestoneCelebration ",
+        "output": " MilestoneCelebration: A work celebrates reaching a significant milestone."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: CatchPhrase ",
+        "output": " CatchPhrase: A character says a specific sentence many times."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: GargleBlaster ",
+        "output": " GargleBlaster: An absurdly potent drink."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: RomanticismVersusEnlightenment ",
+        "output": " RomanticismVersusEnlightenment: In logics: Team Emotion vs. Team ReasonIn narratives: Cynical future vs Idealistic future"
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: CharacterReactionIndex ",
+        "output": " CharacterReactionIndex: An index of tropes about characters' In-Universe reactions."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: MarriageOfConvenience ",
+        "output": " MarriageOfConvenience: Getting married for personal reasons other than being in love."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: DoubleStandardAbuseFemaleOnMale ",
+        "output": " DoubleStandardAbuseFemaleOnMale: Abuse or slapstick of men by women is Played for Laughs or just not taken seriously while it is considered unacceptable if their roles were switched."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: HistoricalVillainUpgrade ",
+        "output": " HistoricalVillainUpgrade: A work's portrayal of a historical villain is heavily modified from the real-life figure the character is based on."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: DesignatedVillain ",
+        "output": " DesignatedVillain: They're the villain because the story says so. Even if their actions and motives say otherwise."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: BunnyEarsLawyer ",
+        "output": " BunnyEarsLawyer: Eccentric yet extremely competent character."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: PowerIncontinence ",
+        "output": " PowerIncontinence: Uncontrollable powers."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: ComingOfAgeStory ",
+        "output": " ComingOfAgeStory: Main character matures into adulthood throughout story."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: HilariouslyAbusiveChildhood ",
+        "output": " HilariouslyAbusiveChildhood: Child abuse or exaggerated Harmful to Minors/favoritism/neglect/Sibling Rivalry being Played for Laughs."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: ContentWarnings ",
+        "output": " ContentWarnings: WARNING:  This Story Contains.  Intense Violence.  Nudity.  Sexual Content.  Strong Language.  Viewer discretion is advised."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: WeHaveReserves ",
+        "output": " WeHaveReserves: Soldiers, you're all easily replaceable."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: NoodleIncident ",
+        "output": " NoodleIncident: An unexplained incident is referenced, and it's either funnier or worse in our heads than whatever could be explained."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: CarnivoreConfusion ",
+        "output": " CarnivoreConfusion: Ethical issues arise from having carnivores and meat products among anthropomorphic animals."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: AuthorityTropes ",
+        "output": " AuthorityTropes: Tropes regarding the displays and results of headship, compliance, and authority."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: WalkingSpoiler ",
+        "output": " WalkingSpoiler: Most things about this character are massive spoilers."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: GoryDiscretionShot ",
+        "output": " GoryDiscretionShot: Horrible violence is best left to the imagination."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: ChekhovsGunman ",
+        "output": " ChekhovsGunman: Earlier-introduced minor character is actually very important."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: SpaghettiWestern ",
+        "output": " SpaghettiWestern: Deconstructions of The Western made in Europe (mainly Italian productions)."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: NoSympathyForThisIndex ",
+        "output": " NoSympathyForThisIndex: An index for traits, characters, and other tropes that are just darn unlikable."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: TheNewestOnesInTheBook ",
+        "output": " TheNewestOnesInTheBook: Tropes that were invented after 1980."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: PlayingAgainstType ",
+        "output": " PlayingAgainstType: Creator does something outside of what they're most known for."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: BrilliantButLazy ",
+        "output": " BrilliantButLazy: A genius/talented slacker."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: PeripheryDemographic ",
+        "output": " PeripheryDemographic: Fans of a work that are outside its primary target demographic. Perhaps much more than within."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: SecretKeeper ",
+        "output": " SecretKeeper: One who knows a great, plot-important secret few others are aware of."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: ComicBookTime ",
+        "output": " ComicBookTime: Even as the in-series date advances with real life, characters don't get any older."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: TheIndexTeam ",
+        "output": " TheIndexTeam: Tropes regarding teams."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: GroceryStoreEpisode ",
+        "output": " GroceryStoreEpisode: An episode about the main cast doing their grocery shopping."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: Stripperiffic ",
+        "output": " Stripperiffic: Outfit stresses sexiness over function."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: ChainedHeat ",
+        "output": " ChainedHeat: Two characters chained together must cooperate."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: ShoujoDemographic ",
+        "output": " ShoujoDemographic: Manga and anime marketed toward pre-teen and teenage girls."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: AffirmativeActionLegacy ",
+        "output": " AffirmativeActionLegacy: The next to take up the mantle will be female or a minority."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: LitClassTropes ",
+        "output": " LitClassTropes: An Index about Literary Techniques."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: SciFiWritersHaveNoSenseOfScale ",
+        "output": " SciFiWritersHaveNoSenseOfScale: Sci-Fi writers make measurements much more different than they realistically would be."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: HighFantasy ",
+        "output": " HighFantasy: There's a lot of fantasy and magic, but it's radically different from the Heroic Fantasy."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: CameraAbuse ",
+        "output": " CameraAbuse: Shattering the viewers' camera lens either for humor or adding tension."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: ADeathInTheLimelight ",
+        "output": " ADeathInTheLimelight: Minor character gets fifteen minutes of fame before dying."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: ChekhovsGun ",
+        "output": " ChekhovsGun: A plot device that isn't significant until later in the story."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: TrainingFromHell ",
+        "output": " TrainingFromHell: Extremely tough training."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: CruelAndUnusualDeath ",
+        "output": " CruelAndUnusualDeath: An extremely painful, unpleasant, and humiliating way to die."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: WhatYouAreInTheDark ",
+        "output": " WhatYouAreInTheDark: A person shows their true colors in private."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: JerkassWoobie ",
+        "output": " JerkassWoobie: An asshole (or close enough) who you still sympathize with."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: EvilIsCool ",
+        "output": " EvilIsCool: Evil is stylish, awe-inspiring, and badass."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: AllThereInTheManual ",
+        "output": " AllThereInTheManual: Information only shared in supplemental material/the series' other works."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: PermanentlyMissableContent ",
+        "output": " PermanentlyMissableContent: Content in a video game that you can't access past a certain point. Usually requires starting over to get it."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: DeliberateValuesDissonance ",
+        "output": " DeliberateValuesDissonance: Morals that modern people don't agree with presented in-universe, not because the author agree with, but because people in the time period or place in the work do."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: FragileSpeedster ",
+        "output": " FragileSpeedster: Agile but fragile."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: ThatCameOutWrong ",
+        "output": " ThatCameOutWrong: Saying something that could be interpreted as something you didn't want to say."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: HypocriticalHumor ",
+        "output": " HypocriticalHumor: Hypocrisy Played for Laughs."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: EvenBetterSequel ",
+        "output": " EvenBetterSequel: A follow-up is considered superior to the original, when the original was already good."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: MirrorMatch ",
+        "output": " MirrorMatch: A fight between two of the same character."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: Pun ",
+        "output": " Pun: Humor based on wordplay."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: OneDegreeOfSeparation ",
+        "output": " OneDegreeOfSeparation: Every character is tangentially connected to almost every other character."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: TheEdwardianEra ",
+        "output": " TheEdwardianEra: Set at the turn of The 20th Century, trumpy old sport."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: VillainDecay ",
+        "output": " VillainDecay: Often due to losing to the heroes time and again, a villain gradually goes from being really threatening to completely harmless."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: EnemyMine ",
+        "output": " EnemyMine: Two bitter, mortal enemies begrudgingly team up against a common threat that is even more menacing and wants them both dead."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: MyGreatestFailure ",
+        "output": " MyGreatestFailure: The mistake that motivates the hero."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: QueerRomance ",
+        "output": " QueerRomance: A story that includes romance between two or more LGBT characters as a major theme"
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: PlatonicLifePartners ",
+        "output": " PlatonicLifePartners: Very close, but not romantically interested, different-sex friends."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: SpeculativeFiction ",
+        "output": " SpeculativeFiction: Science Fiction, Fantasy, and anything else based on things far removed from anything in the world today."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: TheseAreThingsManWasNotMeantToKnow ",
+        "output": " TheseAreThingsManWasNotMeantToKnow: Something that human beings cannot safely observe, discover, or otherwise know about without dire consequences."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: IdiotHero ",
+        "output": " IdiotHero: A hero who acts like an idiot all the time."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: OnlyKnownByTheirNickname ",
+        "output": " OnlyKnownByTheirNickname: Even if their real name is known, no one uses it."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: RunningGag ",
+        "output": " RunningGag: A gag that recurs throughout the work in various forms."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: MoodWhiplash ",
+        "output": " MoodWhiplash: The story has intense, sudden mood swings."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: PerspectiveFlip ",
+        "output": " PerspectiveFlip: Story is retold from another character's subjective perspective."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: PowerStable ",
+        "output": " PowerStable: A gang of wrestlers."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: StockParodies ",
+        "output": " StockParodies: Works/scenes that have become popular targets for mimicry in later media."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: DeathOfAThousandCuts ",
+        "output": " DeathOfAThousandCuts: Killing with many weak attacks."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: LeeroyJenkins ",
+        "output": " LeeroyJenkins: An idiot derails The Team's plans by recklessly charging in."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: JerkWithAHeartOfGold ",
+        "output": " JerkWithAHeartOfGold: A character who acts like a Jerkass for the most part but deep down is a good or at least decent person."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: VillainProtagonist ",
+        "output": " VillainProtagonist: The bad guy is the main character."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: Auction ",
+        "output": " Auction: An auction: Buyers bidding on items where the highest bid wins the right to purchase it."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: TheUnFavourite ",
+        "output": " TheUnFavourite: A family prefers one sibling over another."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: TangledFamilyTree ",
+        "output": " TangledFamilyTree: An extremely convoluted and utterly confusing family tree."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: HonorBeforeReason ",
+        "output": " HonorBeforeReason: Making unwise decisions in the name of honor."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: FunWithAcronyms ",
+        "output": " FunWithAcronyms: Acronym spells something funny or significant."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: Retcon ",
+        "output": " Retcon: Previously established story events and/or facts get removed or rewritten."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: SlutShaming ",
+        "output": " SlutShaming: Personal attacks over promiscuity."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: BlueAndOrangeMorality ",
+        "output": " BlueAndOrangeMorality: Morality that is bizarre by human standards."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: WithCatlikeTread ",
+        "output": " WithCatlikeTread: Improbably loud and noisy stealth."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: OlderThanTheyLook ",
+        "output": " OlderThanTheyLook: Someone looks younger than they really are."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: MissingTrailerScene ",
+        "output": " MissingTrailerScene: Scenes only found in trailers and other advertising."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: Psychopomp ",
+        "output": " Psychopomp: Carries the souls of the dead to the afterlife."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: MinigameGame ",
+        "output": " MinigameGame: A game based entirely, or mostly, on minigames."
+    },
+    {
+        "instruction": "Here is a persona tag that reflects a character's personality and characteristics. Please infer a more understandable and rich explanation of persona based on the given {PERSONA_TAG} in order to better understand the character's personality information.",
+        "input": "{PERSONA_TAG}: LeftTheBackgroundMusicOn ",
+        "output": " LeftTheBackgroundMusicOn: Seemingly out-of-universe background music turns out to be playing in-universe."
+    }
+]
