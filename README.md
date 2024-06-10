@@ -25,7 +25,7 @@ bash flow/sfts1.sh
 python src/persona_extraction.py
 bash flow/predict.sh
 ```
-### Response Generation
+### Response Generation stage
 ```
 bash flow/sfts2.sh
 ```
