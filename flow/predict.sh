@@ -1,0 +1,13 @@
+CUDA_VISIBLE_DEVICES=0 python src/train_bash.py \
+    --stage sft \
+    --model_name_or_path {model_name_or_path} \
+    --do_predict \
+    --dataset {dataset_name} \
+    --template default \
+    --finetuning_type lora \
+    --adapter_name_or_path {adapter_name_or_path} \
+    --output_dir {output_dir} \
+    --per_device_eval_batch_size 8 \
+    --max_samples 250 \
+    --predict_with_generate \
+    --fp16 
