@@ -63,9 +63,6 @@ parser.add_argument('--apikey', type=str)
 
 args = parser.parse_args()
 
-# python gpt_evaluation/compute_scores.py --type fluency --data_path datas1/chatgpt_gen_woper.json > ./logs1/chatgpt_gen_fluency.log 2>&1
-# python gpt_evaluation/compute_scores.py --type interestingness --data_path datas1/genllama.json > ./logs/genllama_interestingness.log 2>&1
-
 if __name__ == '__main__':
     apikey = args.apikey
     url = args.url
@@ -80,15 +77,10 @@ if __name__ == '__main__':
     print(queries[3])
     # time.sleep(100)
 
-    # response = get_azure_response(content="深度学习")
     client = OpenAI(
-        base_url="https://neudm.zeabur.app/v1",
-        api_key="sk-PpBsrIQR2GU2BVWX5aB993515b5644E9A82d17052695B6Bf"
+        base_url="xxxxx",
+        api_key="xxxxx"
     )
-    # client = OpenAI(
-    #     api_key="a6000",
-    #     base_url="http://219.216.65.153:9099/v1/",
-    # )
 
     scores_gen = []
     for query in queries:
@@ -110,45 +102,6 @@ if __name__ == '__main__':
     print("符合条件的项中的数字总和:", total_sum)
     print("score",total_sum/count)
 
-    # fp = open(os.path.join('gpt_evaluation/result', args.output_path), 'a', encoding='utf-8')
-    # total_scores = 0
-    # total_count = 0
-    # with concurrent.futures.ThreadPoolExecutor(max_workers=8) as executor:
-    #     futures = [
-    #         executor.submit(
-    #             run,
-    #             content = query,
-    #             n       = 2
-    #         ) for query in queries
-    #     ]
-    #
-    #     with tqdm(total=len(futures)) as pbar:
-    #         for future, data in zip(concurrent.futures.as_completed(futures), dataset):
-    #             try:
-    #                 data['scores'] = future.result()
-    #                 total_scores += data['scores']
-    #                 total_count += 1
-    #                 fp.write(
-    #                     json.dumps(data, ensure_ascii=False) + '\n'
-    #                 )
-    #                 pbar.update(1)
-    #                 pbar.set_postfix({f'{args.type.upper()} Average Score': total_scores/total_count})
-    #             except Exception as e:
-    #                 print(e)
-    #                 pbar.update(1)
-    #
-    # print(f'{args.data_path}')
-    # # print(f'{args.type} score: {total_scores / total_count}')
-    # print(total_scores, total_count)
-    #
-    # with open('./result/result.json', 'a') as w:
-    #     w.write(
-    #         json.dumps({
-    #             'data': args.data_path,
-    #             'type': args.type,
-    #             'score': total_scores / total_count
-    #         }, ensure_ascii=False) + '\n'
-    #     )
 
 
 
