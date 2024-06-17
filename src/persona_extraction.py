@@ -20,7 +20,7 @@ def generate_completions_and_write(input_file, output_file):
 
         # 生成completion
         completion = client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="XXX",
             messages=[
                 {"role": "system", "content": "You are a helpful assistant."},
                 {"role": "user", "content": content}
@@ -53,7 +53,7 @@ def persona_extract(input_file, output_file):
 
         # 生成completion
         completion = client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="XXX",
             messages=[
                 {"role": "system", "content": "You are a helpful assistant."},
                 {"role": "user", "content": content}
